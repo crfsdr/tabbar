@@ -1,12 +1,12 @@
 name: tabbar
 description: Simple tabbar, rewritten using pagecontroller and facilitating internal PageView manipulation
-version: 0.1.1
+version: 0.1.2
 homepage: https://flutterando.com.br
 git: https://github.com/davidsdearaujo/tabbar
 repository: https://github.com/davidsdearaujo/tabbar
 
 environment:
-  sdk: ">=2.6.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
   flutter:
